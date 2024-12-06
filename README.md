@@ -1,4 +1,4 @@
-## datascience2_assignment
+## ensemble_learning
 ## Objective:
 Build, evaluate, and compare ensemble models with standard machine learning models. Understand each model's pros, cons, and their business applicability.
 
